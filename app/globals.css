@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  --line-color: #e2e8f0;
+}
+html.dark {
+  --line-color: rgba(225, 225, 225, 0.2);
+}
+.borderBlack {
+  @apply border border-black/10;
+}
+
+
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+  background-color: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #e0cbcb;
+
+  border-radius: 10px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background-color: #c0a0b9;
+}
+
