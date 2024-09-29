@@ -33,12 +33,20 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: "Self-taught",
-    location: "Kerala, IN",
+    title: "Full Stack Developer",
+    location: "Tamilnadu, India",
     description:
-      "Learning and exploring Web development to build a career in tech by utalizing free online resources and applying for oppertunity.",
+      "Worked as Full Stack Developer in OneDot Communication.",
     icon: React.createElement(LuGraduationCap),
-    date: "2023 - Present",
+    date: "2024 - Present",
+  },
+  {
+    title: "Genpact Intern",
+    location: "Banglore, IN",
+    description:
+      "Working in real-time projects as Intern.",
+    icon: React.createElement(LuGraduationCap),
+    date: "2024 - Present",
   },
 ] as const;
 
