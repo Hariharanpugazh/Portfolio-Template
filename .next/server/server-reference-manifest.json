@@ -1,0 +1,13 @@
+{
+  "node": {
+    "1ce834ef32f48ed329d57bbd839591f370395735": {
+      "workers": {
+        "app/page": "(actionBrowser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CPortfolio%5C%5CPortfolio%5C%5Ccomponents%5C%5Cactions%5C%5CsendEmail.ts%22%2C%5B%22sendEmail%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "actionBrowser"
+      }
+    }
+  },
+  "edge": {}
+}
