@@ -34,7 +34,7 @@ I’m also keen on sharing my insights and knowledge, whether it's through proje
 ## About Me 
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Concentration Drop Analysis](https://github.com/Krishneshwaran/Concentration-Drop-Analysis)  
+- 🔭 I’m currently working on [Concentration Drop Analysis]  
   
 
 - 🌱 I completed an internship focused on machine learning.  
