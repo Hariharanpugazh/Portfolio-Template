@@ -86,4 +86,5 @@ export const skillsData = [
   "Git",
   "SQL",
   "Machine Learning",
+  "Databricks",
 ] as const;
