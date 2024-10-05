@@ -84,11 +84,11 @@ I’m also keen on sharing my insights and knowledge, whether it's through proje
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=krishneshwaran&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Hariharanpugazh&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishneshwaran&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hariharanpugazh&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
@@ -98,7 +98,7 @@ I’m also keen on sharing my insights and knowledge, whether it's through proje
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=Krishneshwaran&&style=flat-square)  
+![Profile views counter](https://komarev.com/ghpvc/?username=Hariharanpugazh&&style=flat-square)  
   
 
 <br/>  
