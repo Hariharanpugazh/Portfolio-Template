@@ -41,10 +41,10 @@ export const experiencesData = [
     date: "2024 - Present",
   },
   {
-    title: "Genpact Intern",
-    location: "Banglore, IN",
+    title: "GenAI Intern",
+    location: "SNSihub, Tamilnadu",
     description:
-      "Working in real-time projects as Intern.",
+      "Working on GenAI Model as Intern.",
     icon: React.createElement(LuGraduationCap),
     date: "2024 - Present",
   },
@@ -84,7 +84,9 @@ export const skillsData = [
   "React.js",
   "Next.js",
   "Git",
-  "SQL",
-  "Machine Learning",
-  "Databricks",
+  "MYSQL",
+  "Django",
+  "MongoDB",
+  "Streamlit",
+  "Matplotlib",
 ] as const;
